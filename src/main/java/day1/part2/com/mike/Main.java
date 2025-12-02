@@ -8,8 +8,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class Main {
 
     public static final String INPUT_FILE_LOCATION = "/Users/mikesmith/code/personal/advent2025/src/main/resources/day1input.txt";
-    public static final String INPUT_TEST_FILE_LOCATION = "/Users/mikesmith/code/personal/advent2025/src/main/resources/testday1input.txt";
-    public static final String INPUT_TEST_MIKE_FILE_LOCATION = "/Users/mikesmith/code/personal/advent2025/src/main/resources/testmikeday1input.txt";
+    public static final String INPUT_TEST_FILE_LOCATION = "/Users/mikesmith/code/personal/advent2025/src/main/resources/day1testinput.txt";
+    public static final String INPUT_TEST_MIKE_FILE_LOCATION = "/Users/mikesmith/code/personal/advent2025/src/main/resources/day1testmikeday1input.txt";
 
     static AtomicInteger count = new AtomicInteger(0);
 
