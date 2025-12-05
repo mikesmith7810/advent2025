@@ -31,7 +31,7 @@ public class Main {
         for (int row = 0; row < shelves.length; row++) {
             for (int column = 0; column < shelves[row].length(); column++) {
                 char currentPosition = shelves[row].charAt(column);
-                
+
                 if (String.valueOf(currentPosition).equalsIgnoreCase("."))
                     continue;
 
